@@ -31,7 +31,7 @@
     },
     {
       "owner": "khoih-prog",
-      "name": "WebServer_ESP32_SC_W5500",
+      "name": "WebServer_ESP32_SC_ENC",
       "version": ">=1.0.0",
       "platforms": ["espressif32"]
     },
